@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "985955700977",
+    "project_id": "dogapi-ff838",
+    "storage_bucket": "dogapi-ff838.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985955700977:android:32612597e2d4f9f05c5950",
+        "android_client_info": {
+          "package_name": "com.tuananh.dogapi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzaiAP-CESeVb0oxD32492sRQSaJ4AeiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
